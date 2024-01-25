@@ -8,17 +8,17 @@
   <meta content="Zapletal, Analýza volných míst na parkovišti pro parkování vozidel, Maturitní práce, Realizace hodin, Břeclav 2023, Střední škola Edvarda Beneše Břeclav, příspěvková organizace. Cílem mé maturitní práce je realizace sledování volných a obsazených parkovacích míst v programovacím jazyce Python s implementací umělé inteligence. Součástí práce je seznámení se s jazykem a prohloubení znalostí v programování. " name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/olo.png" rel="icon">
-  <link href="assets/img/olo.png" rel="apple-touch-icon">
+  <link href="img/olo.png" rel="icon">
+  <link href="img/olo.png" rel="apple-touch-icon">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
   </head>
 <body>
 
@@ -43,7 +43,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/main.jpg)">
+  <div id="hero" class="hero route bg-image" style="background-image: url(img/main.jpg)">
     <div class="overlay-itro"></div>
     <div class="hero-content display-table">
       <div class="table-cell">
@@ -68,7 +68,7 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/parkoviste1.png" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="img/parkoviste1.png" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
@@ -142,7 +142,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <img src="assets/img/kamera.png" style="float: center;" width="110" height="110">
+                <img src="img/kamera.png" style="float: center;" width="110" height="110">
               </div>
               <div class="service-content">
                 <h2 class="s-title">Kamerový systém</h2>
@@ -156,7 +156,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <img src="assets/img/senzor.png" style="float: center;" width="110" height="110">
+                <img src="img/senzor.png" style="float: center;" width="110" height="110">
               </div>
               <div class="service-content">
                 <h2 class="s-title">Infračervené senzory</h2>
@@ -169,7 +169,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <img src="assets/img/tlak.png" style="float: center;" width="110" height="110">
+                <img src="img/tlak.png" style="float: center;" width="110" height="110">
               </div>
               <div class="service-content">
                 <h2 class="s-title">Senzory tlaku</h2>
@@ -182,7 +182,7 @@
           <center><div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <img src="assets/img/indukce.png" style="float: center;" width="110" height="110">
+                <img src="img/indukce.png" style="float: center;" width="110" height="110">
               </div>
               <div class="service-content">
                 <h2 class="s-title">Senzory indukčnosti</h2>
@@ -197,7 +197,7 @@
     </section><!-- End Services Section -->
     
 <section>
-<div class="section-counter paralax-mf bg-image" style="background-image: url(assets/img/parkovani.png)">
+<div class="section-counter paralax-mf bg-image" style="background-image: url(img/parkovani.png)">
 <center>
 <b><h1 style="color: white;">Online stav parkoviště</h1></b>
 <table border="3" cellpadding = "8">
@@ -245,7 +245,7 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-               <img src="assets/img/parkoviste2.png" alt="" class="img-fluid">
+               <img src="img/parkoviste2.png" alt="" class="img-fluid">
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -263,7 +263,7 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <img src="assets/img/kod1.png" alt="" class="img-fluid">
+                <img src="img/kod1.png" alt="" class="img-fluid">
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -281,7 +281,7 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-               <img src="assets/img/tab.png" alt="" class="img-fluid">
+               <img src="img/tab.png" alt="" class="img-fluid">
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -323,15 +323,15 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/typed.js/typed.umd.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="vendor/typed.js/typed.umd.js"></script>
+  <script src="vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="js/main.js"></script>
 
 </body>
 
